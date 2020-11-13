@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.horizon-festival.lndo.site	TRUE	/	FALSE	1999999999	SESS1d8a537a504d3b38cf4f0faf4f7dbf90	CAdJnRl1kg3fOpTdyu8lOwyOn2DvhemDUy_G_499eAM
+
